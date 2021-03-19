@@ -15,7 +15,7 @@ a:link {
 
 /* Home */
 .bg-img {
-    background-image: url(samplephoto.jpg);
+    background-image: url(Images/samplephoto.jpg);
     height: 50rem; 
     width: 100%;
     background-position: center;
@@ -43,7 +43,7 @@ a:link {
     width: 3rem;
     border: 2px solid black;
     background-color: #313639;
-    height: 10rem;
+    height: 12rem;
     width: 5rem;
     margin-left: 94%;
     margin-top: 15%;
@@ -86,7 +86,7 @@ li a {
     height: 25rem;
     width: 23rem;
     border: 2px solid white;
-    background-image: url(selfie.jpg);
+    background-image: url(/Images/selfie.jpg);
     background-repeat: no-repeat;
     border: 5px solid black;
     margin-bottom: 3rem;
@@ -119,6 +119,35 @@ li a {
     font-size: 20px;
     /* color: #ffb7c5; */
 }
+
+/* Travels */
+
+#travels {
+    height: 250vh;
+    width: 100%;
+    background-color: #313639 ;
+}
+
+
+#vc {
+    background-image: url(/Images/7thhill.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin-left: 25%;
+    width: 40rem;
+    /* margin-top: 1rem; */
+}
+
+
+#tiger {
+    background-image: url(/Images/tiger!.jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 25%;
+    width: 40rem;
+    margin-top: 1rem;
+}
+
 
 /* contact */
 
