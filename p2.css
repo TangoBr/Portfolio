@@ -78,16 +78,31 @@ li a {
 
 /* About */
 
+#abtimg {
+    height: 25rem;
+    width: 23rem;
+    border: 2px solid white;
+    background-image: url(selfie.jpg);
+    background-repeat: no-repeat;
+}
+
 #about {
     display: flex;
     flex-direction: column;
-    height: 120vh;
+    height: 100vh;
     width: 100%;
     background-color: navy;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
+
+#a {
+    height: 20vh;
+    width: 80%;
+    border: 2px solid white;
+}
+
 
 #about h1 {
     color:#f5f5f5;
