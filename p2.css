@@ -84,12 +84,14 @@ li a {
     border: 2px solid white;
     background-image: url(selfie.jpg);
     background-repeat: no-repeat;
+    border: 5px solid black;
+    margin-bottom: 3rem;
 }
 
 #about {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 140vh;
     width: 100%;
     background-color: navy;
     justify-content: center;
@@ -98,18 +100,20 @@ li a {
 }
 
 #a {
-    height: 20vh;
-    width: 80%;
-    border: 2px solid white;
+    height: 27vh;
+    width: 50%;
 }
 
 
 #about h1 {
     color:#f5f5f5;
+    /* color: #e11b22; */
 }
 
 #about p {
     color: #f5f5f5;
+    font-size: 20px;
+    /* color: #ffb7c5; */
 }
 
 /* contact */
