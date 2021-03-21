@@ -80,7 +80,7 @@ a:link {
     padding: 1rem;
 }
 
-a:hover {
+ul a:hover {
     color: gold;
     box-shadow: 0 5px 15px;
     border-radius: 10px;
