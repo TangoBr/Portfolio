@@ -19,7 +19,7 @@ a:link {
 
 /* Home */
 .bg-img {
-    background-image: url(Images/samplephoto.jpg);
+    background-image: url(/Images/samplephoto.jpg);
     height: 50rem; 
     width: 100%;
     background-position: center;
