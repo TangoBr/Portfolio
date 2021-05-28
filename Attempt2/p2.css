@@ -1,3 +1,4 @@
+/* base settings */
 * {
     padding: 0;
     margin: 0;
@@ -17,9 +18,10 @@ a:link {
     text-decoration: none;
 }
 
+
 /* Home */
 .bg-img {
-    background-image: url(/Images/samplephoto.jpg);
+    background-image: url(/Images/eggplant_lol.jpg);
     height: 50rem; 
     width: 100%;
     background-position: center;
@@ -30,7 +32,7 @@ a:link {
 
 .intro {
     color: white;
-    font-size: 70px;
+    font-size: 60px;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -66,8 +68,9 @@ a:link {
 }
 
 .hey {
-    /* margin-left: 50%; */
     color: white;
+    transition: 1s;
+    transform: scale(1.5);
 }
 
 .topnav ul {
